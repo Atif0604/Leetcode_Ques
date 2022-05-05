@@ -26,7 +26,8 @@ public:
     vector <list<int>> n;
     int size;
     MyHashSet() {
-        size=1e6+1;//as the index is to made of 10^6
+        // size=1e6+1;//as the index is to made of 10^6
+        size =100;
         n.resize(size);
     }
     int hash(int key){
