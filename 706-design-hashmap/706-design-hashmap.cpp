@@ -25,7 +25,8 @@ public:
      vector<list<pair<int,int>>>n;
     int size;
     MyHashMap() {
-        size=1e6+1;
+        // size=1e6+1;
+        size=1000;
         n.resize(size);
     }
     int hash(int key){
