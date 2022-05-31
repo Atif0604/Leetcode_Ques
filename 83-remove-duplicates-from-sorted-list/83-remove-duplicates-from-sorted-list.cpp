@@ -9,7 +9,7 @@
  * };
  */
 
-// Approach 1: Recursive
+// Approach 1: Recursive Approach
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
