@@ -9,7 +9,7 @@
  * };
  */
 
-// // Approach 1: Recursive Approach
+// // Approach 1: Recursive 
 // class Solution {
 // public:
 //     ListNode* deleteDuplicates(ListNode* head) {
@@ -23,7 +23,7 @@
 //     }
 // };
 
-// Approach 2: Iterative Approach
+// Approach 2: Iterative 
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
