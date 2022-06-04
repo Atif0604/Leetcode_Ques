@@ -6,7 +6,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-// Approach : fast and slow ptr
+// Approach : Fast and Slow ptr
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
