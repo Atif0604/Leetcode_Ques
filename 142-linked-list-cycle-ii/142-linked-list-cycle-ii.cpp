@@ -6,7 +6,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-// Taking help from LL Cycle1 and
+// Taking help from LL Cycle1 and Mathematical proof
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
